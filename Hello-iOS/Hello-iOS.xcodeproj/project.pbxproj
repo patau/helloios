@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					CFAB9F9F1E8C9078007AF46B = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 7VK86NNJUX;
 						ProvisioningStyle = Automatic;
 					};
 					CFAB9FB61E8C9078007AF46B = {
@@ -418,7 +419,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7VK86NNJUX;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "patau.Hello-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,7 +433,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7VK86NNJUX;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "patau.Hello-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -511,6 +516,7 @@
 				CFAB9FCD1E8C9078007AF46B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CFAB9FCE1E8C9078007AF46B /* Build configuration list for PBXNativeTarget "Hello-iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				CFAB9FD01E8C9078007AF46B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CFAB9FD11E8C9078007AF46B /* Build configuration list for PBXNativeTarget "Hello-iOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +534,7 @@
 				CFAB9FD31E8C9078007AF46B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
